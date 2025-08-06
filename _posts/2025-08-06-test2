@@ -3,7 +3,7 @@ layout: post
 title:  "hello jekyll!"
 date:   2015-02-10 15:14:54
 categories: jekyll
-tags: jekyll
+tags: jekyll nanocad
 excerpt: Статья по умолчанию, в то время, когда был создан jekyll, была бессмысленной, и я ее не удалил. Оставьте на память.。
 mathjax: true
 ---
