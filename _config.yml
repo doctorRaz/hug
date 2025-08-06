@@ -8,22 +8,22 @@
 # Site settings
 title: HyG
 brief-intro: Front-end Dev Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/hug" # the subpath of your site, e.g. /blog
 url: "https://doctorraz.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username:
-facebook_username: gaohaoyang.water
+facebook_username: doctorraz.water
 github_username:  doctorraz
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+email: doctorraz@126.com
+weibo_username: doctorraz
+zhihu_username: doctorraz
+linkedIn_username: doctorraz
 dribbble_username:
 
-description_footer: 本站记录我前端之旅的沿途风景！
+description_footer: описание
 
 # comments
 # two ways to comment, only choose one, and use your own short name
